@@ -1,0 +1,25 @@
+{
+  "name": "nano-status-bar",
+  "main": "./lib/nano-status-bar",
+  "version": "0.2.1",
+  "description": "Keep an eye on the latest NANO price while you code!",
+  "keywords": [
+    "cryptocurrency",
+    "market",
+    "nano",
+    "price-ticker"
+  ],
+  "repository": "https://github.com/cyril/atom-nano-status-bar",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBar"
+      }
+    }
+  },
+  "dependencies": {}
+}

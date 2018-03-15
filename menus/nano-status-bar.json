@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle nano-status-bar",
+        "command": "nano-status-bar:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "NANO Status Bar",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "nano-status-bar:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
