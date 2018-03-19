@@ -1,15 +1,15 @@
 {
-  "name": "nano-status-bar",
-  "main": "./lib/nano-status-bar",
+  "name": "chaincoin-status-bar",
+  "main": "./lib/chaincoin-status-bar",
   "version": "0.2.1",
-  "description": "Keep an eye on the latest NANO price while you code!",
+  "description": "Keep an eye on the latest Chaincoin (CHC) price while you code!",
   "keywords": [
     "cryptocurrency",
     "market",
-    "nano",
+    "chaincoin",
     "price-ticker"
   ],
-  "repository": "https://github.com/cyril/atom-nano-status-bar",
+  "repository": "https://github.com/lubuzzo/atom-chc-status-bar",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle nano-status-bar",
-        "command": "nano-status-bar:toggle"
+        "label": "Toggle chaincoin-status-bar",
+        "command": "chaincoin-status-bar:toggle"
       }
     ]
   },
@@ -12,11 +12,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "NANO Status Bar",
+          "label": "CHAINCOIN Status Bar",
           "submenu": [
             {
               "label": "Toggle",
-              "command": "nano-status-bar:toggle"
+              "command": "chaincoin-status-bar:toggle"
             }
           ]
         }
