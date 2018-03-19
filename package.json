@@ -1,7 +1,7 @@
 {
   "name": "chaincoin-status-bar",
   "main": "./lib/chaincoin-status-bar",
-  "version": "0.2.1",
+  "version": "1.0.0",
   "description": "Keep an eye on the latest Chaincoin (CHC) price while you code!",
   "keywords": [
     "cryptocurrency",
